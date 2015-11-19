@@ -12,7 +12,7 @@ Vignette proposed
 
 Function wish list
 - NMNDNS (NMDS) and PCA (package, vegan/FactorMineR already does alot of this)
-- Kendric plot
-  + mass vs Kendric mass defect (mass/ [mass of CH2 or COO])
-- plot C number vs HC/DEB/OC
-- Cluster analysis of presence/absence for mass:charge
+- KMD (Kendric mass defect) plot
+  + Norminal kendrick mass  vs Kendric mass defect (mass/ [mass of CH2 or COO])
+- C number vs HC/DBE/OC plot
+- Cluster analysis of presence/absence for mass to charge ratio (m/z)
